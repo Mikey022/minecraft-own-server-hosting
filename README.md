@@ -1,6 +1,6 @@
 # minecraft-own-server-hosting
 Host minecraft on Github You can create your own cloud hosting for minecraft
-
+-----------------------
 Setup
 chmod u+x start_server.sh
 
